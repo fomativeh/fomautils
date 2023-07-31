@@ -1,0 +1,17 @@
+{
+  "name": "fomautils",
+  "version": "1.0.0",
+  "description": "A comprehensive collection of JavaScript utility functions to streamline common tasks.",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "author": "fomativeh",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.1.6"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fomativeh/fomautils.git"
+  },
+  "keywords":["utils", "utility", "helpers", "functions", "JavaScript", "helper functions", "utility functions", "native functions", "format string", "format"]
+}

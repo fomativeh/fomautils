@@ -1,0 +1,17 @@
+export declare const capitalizeFirstLetter: (inputString: string) => string;
+export declare const formatNumberWithCommas: (number: number) => string;
+export declare const generateRandomString: (length: number) => string;
+export declare const isPalindrome: (inputString: string) => boolean;
+export declare const deepCloneObject: <T>(obj: T) => T;
+export declare const validateEmailAddress: (email: string) => boolean;
+export declare const removeDuplicatesFromArray: <T>(arr: T[]) => T[];
+export declare const toTitleCase: (inputString: string) => string;
+export declare const reverseString: (inputString: string) => string;
+export declare const truncateString: (inputString: string, maxLength: number) => string;
+export declare const formatWalletAddress: (walletAddress: string) => string;
+export declare const toCamelCase: (inputString: string) => string;
+export declare const sumArrayElements: (arr: number[]) => number;
+export declare const replaceAllOccurrences: (inputString: string, searchValue: string, replaceValue: string) => string;
+export declare const calculateAverage: (arr: number[]) => number;
+export declare const generateRandomNumberArray: (length: number, minValue: number, maxValue: number) => number[];
+export declare const mergeArrays: <T>(...arrays: T[][]) => T[];
