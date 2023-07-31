@@ -41,8 +41,7 @@ import {
 | replaceAllOccurrences     | inputString: string, searchValue: string, replaceValue: string | string, string, string | string         | Replaces all occurrences of a substring with another substring in a given string.                                                                                                                                                           |
 | calculateAverage          | arr: number[]                   | number[]         | number         | Calculates the average of all elements in an array of numbers.                                                                                                                                                                                |
 | generateRandomNumberArray | length: number, minValue: number, maxValue: number | number, number, number | number[] | Generates an array of random numbers within a specified range and length.                                                                                                                                                                   |
-| mergeArrays               | ...arrays: T[][]                | T[]              | T[]            | Merges multiple arrays into a single array.                                                                                                                                                                                                   |
-
+| mergeArrays               | ...arrays: T[][]                | T[]              | T[]            | Merges multiple arrays into a single array.                                                                                                                                                                                                   
 
 ## Contributing
 Contributions to **`fomautils`** are welcome! If you find any issues or have additional functions to suggest, please feel free to submit a pull request.
@@ -51,14 +50,3 @@ Contributions to **`fomautils`** are welcome! If you find any issues or have add
 **`fomautils`** is released under the [ISC License](https://opensource.org/license/isc-license-txt/).
 
 
-<style>
-th {
-  background-color: #f2f2f2;
-  text-align: left;
-  color:#000;
-}
-td, th {
-  padding: 10px;
-  border: 1px solid #ddd;
-}
-</style>

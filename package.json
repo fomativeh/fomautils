@@ -1,6 +1,6 @@
 {
   "name": "fomautils",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "A comprehensive collection of JavaScript utility functions to streamline common tasks.",
   "main": "index.js",
   "types": "index.d.ts",
